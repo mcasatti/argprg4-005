@@ -12,6 +12,7 @@ public class TP {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Software de simulación de Pronósticos Deportivos.");
         
         PRODE = new PronosticoDeportivo();
         PRODE.cargarEquipos();   
